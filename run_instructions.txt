@@ -1,0 +1,12 @@
+HOW TO RUN THE PROJECT
+
+Step 1: Install Python
+
+Step 2: Install required libraries
+pip install -r requirements.txt
+
+Step 3: Run the project
+streamlit run app.py
+
+Step 4: Open in browser
+http://localhost:8501
